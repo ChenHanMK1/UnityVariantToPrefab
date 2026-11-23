@@ -1,7 +1,7 @@
 {
   "name": "com.variant-to-prefab",
   "displayName": "Variant to Prefab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2020.3",
   "description": "Convert Prefab Variants into regular Prefabs in place. The asset GUID is preserved, so every existing reference in scenes, prefabs, code and configs keeps working. Adds an entry to the Project window context menu.",
   "keywords": [

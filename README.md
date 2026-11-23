@@ -13,7 +13,7 @@ Convert Prefab Variants into regular Prefabs **in place**, keeping the asset pat
 Unity → `Window` → `Package Manager` → 左上角 `+` → `Add package from git URL...`
 
 ```
-https://github.com/ChenHanMK1/VariantToPrefab.git
+https://github.com/ChenHanMK1/UnityVariantToPrefab.git
 ```
 
 ### 方式二：写进 manifest.json
@@ -23,7 +23,7 @@ https://github.com/ChenHanMK1/VariantToPrefab.git
 ```json
 {
   "dependencies": {
-    "com.variant-to-prefab": "https://github.com/ChenHanMK1/VariantToPrefab.git"
+    "com.variant-to-prefab": "https://github.com/ChenHanMK1/UnityVariantToPrefab.git"
   }
 }
 ```

@@ -2,6 +2,14 @@
 
 All notable changes to this package will be documented in this file.
 
+## [1.0.1] - 2026-11-23
+
+### Fixed
+
+- Ship a `.meta` file for every asset. Packages installed from a Git URL live in a
+  read-only `PackageCache`, so Unity cannot generate `.meta` files itself and
+  silently ignores every asset without one
+  ("has no meta file, but it's in an immutable folder. The asset will be ignored").
 ## [1.0.0] - 2026-11-23
 
 ### Added
