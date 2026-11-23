@@ -1,3 +1,9 @@
+# 声明 / Disclaimer
+
+本脚本由AI编写，为方便作者自身工作，作者没有代码审核能力，只能保证功能生效，不能保证对资源的影响，使用前请做好备份
+
+This script was written by AI for the author's personal workflow. The author does not have the expertise to review or audit the code and can only confirm that the script functions as intended. The author cannot guarantee that it will not affect or damage project assets in all circumstances. Please back up your project and assets before use.
+
 # Variant to Prefab / 变体转换本体
 
 把 Prefab Variant（预制体变体）**就地**转换成普通 Prefab（本体），**保留原路径与 GUID**，场景、预制体、代码、配置表里已有的引用全部继续有效。
